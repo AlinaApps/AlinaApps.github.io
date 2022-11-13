@@ -1,3 +1,3 @@
-# AlinaApps.github.io
+# Alina Apps
 
 https://alinaapps.github.io/
