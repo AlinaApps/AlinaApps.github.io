@@ -1,27 +1,5 @@
 # Contact
 
-<!-- modify this form HTML and place wherever you want your form -->
-<form
-  action="https://formspree.io/f/xjvzjndy"
-  method="POST"
->
-  <label>
-    Your email:
-    <input type="email" name="email">
-  </label>
-  <label>
-    
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
-  
-  <!-- your other form fields go here -->
-  <button type="submit">Send</button>
-</form>
-
-
-
-
 <div id="formkeep-embed" data-formkeep-url="https://formkeep.com/p/64c4bcc4ba97a2a84e0233ab4bd4d402?embedded=1"></div>
 
 <script type="text/javascript" src="https://pym.nprapps.org/pym.v1.min.js"></script>
