@@ -1,3 +1,3 @@
-#Privacy policy
+# Privacy policy
 
 gfhgfhgf
