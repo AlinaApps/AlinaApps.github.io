@@ -6,7 +6,7 @@ Please be reminded that the Terms constitute an agreement between you and Us. Th
 
 From time to time, we may modify or amend the Terms. If we make changes to these Terms, we will provide notice of such changes by posting a notice inside the Application and updating the “Last Updated” date above. If you continue to use the App following such a posting, you accept any such change or modification.
 
-Agreement
+## Agreement
 
 1.1 License
 
@@ -28,7 +28,7 @@ Apps reserves the right, at any time, to modify, suspend, or discontinue the App
 
 Apps provided to you are licensed to you and not sold. Apps (and its licensors, where applicable) own all right, title and interest, including all related intellectual property rights, in and to all Apps, excluding your User Content (defined below). This Agreement is not a sale and does not convey to you any rights of ownership in or related to any App. The Apps name, logo, and the product names associated with the Apps belong to Apps (or its licensors, where applicable), and no right or license is granted to use them by implication, estoppel or otherwise. Apps (and its licensors, where applicable) reserve all rights not granted in this Agreement.
 
-2. User Content
+## User Content
 
 2.1 User Content
 
@@ -52,7 +52,7 @@ The following sets forth Apps ¬ “Acceptable Use Policy”:
 
 We reserve the right (but have no obligation) to review any User Content in our sole discretion. We may remove or modify your User Content at any time for any reason in our sole discretion with or without notice to you.
 
-3. Term and Termination
+## Term and Termination
 
 3.1 This Agreement commences on the date you accept this Agreement (as described in the preamble) and will remain in full force and effect while you use the App, unless earlier terminated in accordance with this Agreement.
 
@@ -62,11 +62,11 @@ We reserve the right (but have no obligation) to review any User Content in our 
 
 3.4 Upon termination of this Agreement, your right to use the App will automatically terminate immediately. You understand that any termination may involve deletion of your User Content associated therewith from our live databases. Sumoing will not have any liability whatsoever to you for any termination of this Agreement, including deletion of your User Content. Even after this Agreement is terminated, the following provisions of this Agreement will remain in effect: Sections 1.2, 1.3, 1.4, 1.5, 2, 3.4, 4, 5, 6, 7, 8 and 9.
 
-4. Indemnity
+## Indemnity
 
 You agree to defend, indemnify and hold harmless Apps (and its suppliers) from and against any claims, suits, losses, damages, liabilities, costs, and expenses (including reasonable attorneys’ fees) brought by third parties resulting from or relating to: (i) your use of any App, (ii) your User Content, or (iii) your violation of this Agreement. Apps reserves the right, at your expense, to assume the exclusive defense and control of any matter for which you are required to indemnify Apps and you agree to cooperate with our defense of these claims. You agree not to settle any matter without the prior written consent of Apps  Apps will use reasonable efforts to notify you of any such claim, action or proceeding upon becoming aware of it.
 
-5. Third Parties
+## Third Parties
 
 5.1 Application Stores.
 
@@ -84,7 +84,7 @@ An App may contain User Content provided by other users of the App. Apps is not 
 
 You hereby irrevocably and unconditionally release and forever discharge Apps (and its suppliers) from any and all claims, demands, and rights of action, whether now known or unknown, which relates to any interactions with, or act or omission of, any Third Party Service, other Apps users, or Third Party Advertisers. IF YOU ARE A CALIFORNIA RESIDENT, YOU HEREBY WAIVE CALIFORNIA CIVIL CODE SECTION 1542 IN CONNECTION WITH THE FOREGOING, WHICH STATES: “A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS WHICH THE CREDITOR DOES NOT KNOW OR SUSPECT TO EXIST IN HIS OR HER FAVOR AT THE TIME OF EXECUTING THE RELEASE, WHICH IF KNOWN BY HIM OR HER MUST HAVE MATERIALLY AFFECTED HIS OR HER SETTLEMENT WITH THE DEBTOR.”
 
-6. Disclaimers
+## Disclaimers
 
 6.1 APPS ARE PROVIDED “AS-IS” AND AS AVAILABLE AND Apps (AND ITS SUPPLIERS) EXPRESSLY DISCLAIM ANY WARRANTIES AND CONDITIONS OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING THE WARRANTIES OR CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, QUIET ENJOYMENT, ACCURACY, OR NON-INFRINGEMENT. Apps (AND ITS SUPPLIERS) MAKE NO WARRANTY THAT ANY APP: (A) WILL MEET YOUR REQUIREMENTS; (B) WILL BE
 
@@ -92,17 +92,17 @@ AVAILABLE ON AN UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE BASIS; OR (C) WILL 
 
 6.2 SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES, SO THE ABOVE EXCLUSION MAY NOT APPLY TO YOU.
 
-7. Limitation on Liability
+## Limitation on Liability
 
 7.1 IN NO EVENT SHALL Apps (OR ITS SUPPLIERS) BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY LOST PROFIT OR ANY INDIRECT, CONSEQUENTIAL, EXEMPLARY, INCIDENTAL, SPECIAL OR PUNITIVE DAMAGES ARISING FROM OR RELATING TO THIS AGREEMENT OR SUMOING’S PRIVACY PRACTICES, ANY APP, EVEN IF Apps HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. ACCESS TO, AND USE OF, ANY APP ARE AT YOUR OWN DISCRETION AND RISK, AND YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR MOBILE DEVICE OR LOSS OF DATA RESULTING THEREFROM. NOTWITHSTANDING ANYTHING TO THE CONTRARY CONTAINED HEREIN, Apps  LIABILITY TO YOU FOR ANY DAMAGES ARISING FROM OR RELATED TO THIS AGREEMENT OR Apps  PRIVACY PRACTICES (FOR ANY CAUSE WHATSOEVER AND REGARDLESS OF THE FORM OF THE ACTION), WILL AT ALL TIMES BE LIMITED TO THE AMOUNT YOU’VE PAID SUMOING IN THE PRIOR 12 MONTHS (IF ANY). IN NO EVENT SHALL Apps SUPPLIERS HAVE ANY LIABILITY ARISING OUT OF OR IN ANY WAY CONNECTED TO THIS AGREEMENT.
 
 7.2 SOME JURISDICTIONS DO NOT ALLOW THE LIMITATION OR EXCLUSION OF LIABILITY FOR INCIDENTAL OF CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATION OR EXCLUSION MAY NOT APPLY TO YOU AND YOU MAY ALSO HAVE OTHER LEGAL RIGHTS THAT VARY FROM JURISDICTION TO JURISDICTION.
 
-8. Fees
+## Fees
 
 You agree to pay the applicable fee (to us or the applicable distributor) for the Apps you download and for any in-App purchases (such as virtual currency, in-App products, subscribtions) you make.
 
-9. General
+## General
 
 9.1 Changes to this Agreement
 
